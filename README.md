@@ -8,7 +8,7 @@ A simple, classic-style arcade game built with **Java Swing**. Control the playe
 
 Here's a look at the **People Catcher** game in action:
 
-![Alt Text](image-url-or-path)
+![Alt Text](example.png)
 
 ---
 
